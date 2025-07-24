@@ -11,7 +11,7 @@ import SwiftUI
 struct HammerAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Authorization()
         }
     }
 }
